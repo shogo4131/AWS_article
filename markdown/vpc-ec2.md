@@ -2,6 +2,7 @@
 
 ## 知識定着のためハンズオンしてみた  
   
+  
 ### 構成図    
 ![complete](/image/vpc/vpc.drawio.png)
 
