@@ -3,6 +3,6 @@
 ## 知識定着のためハンズオンしてみた  
 
 ### 構成図    
-![complete](./vpc/vpc.drawio.png)
+![complete](/image/vpc/vpc.drawio.png)
 
 
