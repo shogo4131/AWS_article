@@ -5,8 +5,6 @@
 ### 構成図    
 ![complete](/image/vpc/vpc.drawio.png)  
 
-![complete](/image/vpc/vpc.drawio.png)
-
 ### VPC 作成
 
 デフォルトで VPC が作成されているので新たに作成する。
