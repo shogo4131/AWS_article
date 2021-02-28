@@ -1,8 +1,16 @@
 # Amazon VPC を作成〜EC2 インスタンスを起動まで ①
 
+<<<<<<< HEAD
 ## 知識定着のためハンズオンしてみた
 
 ### 構成図
+=======
+## 知識定着のためハンズオンしてみた  
+  
+  
+### 構成図    
+![complete](/image/vpc/vpc.drawio.png)
+>>>>>>> 7eb8dbe8c7819e9589e0cf92185114c7c758fa3e
 
 ![complete](/image/vpc/vpc.drawio.png)
 
